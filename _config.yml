@@ -3,9 +3,13 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Software Engineer at Swiss International Airlines
   <br><br>
-  MSc Business Administration Information and Data Management, FHGR, 2020
+  MSc Business Administration - <a href="https://www.fhgr.ch/studium/masterangebot/wirtschaft-und-informationswissenschaft/data-visualization/">Information and Data Management</a>
+  <br>
+  <a href="https://www.fhgr.ch">FHGR</a>, 2020
   <br><br>
-  BSc Information Science, ZHAW, 2013
+  BSc Information Science
+  <br>
+  <a href="https://www.zhaw.ch/de/hochschule/">ZHAW</a>, 2013
   <br><br>
   Zürich, Switzerland 
   <br><br>
