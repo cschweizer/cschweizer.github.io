@@ -15,7 +15,7 @@
 
 ---
 
-### other Data Science Repositories
+### Other Data Science Repositories
 
 - [Machine Learning: Titanic Survival Prediction](https://github.com/cschweizer/datascience-kaggletitanic-ml)
 - [Natural Language Processing: Fakenews Classifier](https://github.com/cschweizer/datascience-fakenews-classifier)
