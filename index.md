@@ -5,10 +5,12 @@
 ### Data Science Projects
 
 [Carbon tax: Assessment of the impact on demand from the airlines perspective](/pages/carbontax.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/carbontax_thumbnail.jpg?raw=true"/>
 
 ---
 [Data Visualization of Commuter Flows](/pages/commuter_visualization.md)
+
 <img src="images/commuter_thumbnail.jpg?raw=true"/>
 
 ---
